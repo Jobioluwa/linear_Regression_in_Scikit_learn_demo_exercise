@@ -9,3 +9,8 @@ This project uses linear regression to predict house prices from features such a
 - Number of bedrooms
 - Location factors
 - Other relevant housing attributes
+
+# Requirements
+- Numpy
+- Scikit-learn
+- Matplotlib
