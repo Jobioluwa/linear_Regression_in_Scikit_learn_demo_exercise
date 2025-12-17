@@ -1,6 +1,6 @@
 # Linear Regression in Scikit-Learn Demo Exercise
 
-A simple demonstration of linear regression using Python's scikit-learn library to predict house prices based on various features.
+My first demonstration of linear regression using Python's scikit-learn library to predict house prices based on various features.
 
 ## Overview
 
